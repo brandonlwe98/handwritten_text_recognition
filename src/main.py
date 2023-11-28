@@ -13,8 +13,8 @@ from preprocessor import Preprocessor
 
 class FilePaths:
     """Filenames and paths to data."""
-    fn_char_list = '../model/charList.txt'
-    fn_summary = '../model/summary.json'
+    fn_char_list = '../model/line-model/charList.txt'
+    fn_summary = '../model/line-model/summary.json'
     fn_corpus = '../data/corpus.txt'
 
 
